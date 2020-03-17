@@ -1,0 +1,4390 @@
+ Spoiler List
+Set exported using Magic Set Editor 2, version 2.0.0
+
+Spoiler List created on 2020-03-17 11:17:29
+
+Card Name:	Twi'lek Protector
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Twi'lek Jedi 
+Pow/Tou:	2/3
+Card Text:	Protector 
+		If Twi'lek Protector would die while blocking, draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		45/360
+
+Card Name:	Roar at the Moon
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, sacrifice a creature you control.
+		Prevent all damage that would be dealt to you or creatures you control until end of turn.
+Flavor Text:	"Seven hours. How are we going to get all these people off the planet in seven hours?"
+Artist:		
+Rarity:		C
+Card #:		40/360
+
+Card Name:	Jedi Protector
+Card Color:	W
+Mana Cost:	4WW
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	1/4
+Card Text:	Flash, Protector
+		When Jedi Protector enters the battlefield, it gains indestructible until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		17/360
+
+Card Name:	Inseparable Partners
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	2/2
+Card Text:	When Inseparable Partners enters the battlefield, you may destroy target artifact. If you do, create a 0/2 white Jedi creature token.
+		T: Target creature deals damage equal to its toughness until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		16/360
+
+Card Name:	Knowledge Seeker
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - MYSTERY Jedi 
+Pow/Tou:	1/1
+Card Text:	When Knowledge Seeker enters the battlefield, create a Holocron.
+		Sacrifice a Holocron: Gain 3 life and put a +1/+1 counter on Knowledge Seeker.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		21/360
+
+Card Name:	Frontline Offensive
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Creatures you control get +2/+1 until end of turn. If you control three or more Rebels, return Frontline Offensive to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		11/360
+
+Card Name:	Tie Down
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant creature
+		Enchanted creature cannot attack or block.
+		3W, Sacrifice Tie Down: Creatures you control deal damage equal to their power.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		44/360
+
+Card Name:	Nature-Attuned Jedi
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Ithorian Jedi 
+Pow/Tou:	0/2
+Card Text:	Protector
+		Whenever Nature-Attuned Jedi becomes tapped without attacking, put a +1/+1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		29/360
+
+Card Name:	Protect the Fallen
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	The next time target creature would die this turn, return it to the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		33/360
+
+Card Name:	Knight's Saber
+Card Color:	Gld
+Mana Cost:	WW
+Type & Class:	Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 2
+		Equipped creature gets +0/+2 and deals damage equal to its toughness.
+Flavor Text:	"An elegant weapon for a more civilized age." - Obi-Wan Kenobi
+Artist:		
+Rarity:		C
+Card #:		20/360
+
+Card Name:	Battlefield Medic
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/2
+Card Text:	W, T: Untap another target permanent you control. If the creature is in combat, remove it from combat.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		4/360
+
+Card Name:	Deep Forest Rebel
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - ??? Rebel 
+Pow/Tou:	1/3
+Card Text:	Vigilance
+		T: Draw a card. Activate this ability only if Deep Forest Rebel attacked this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		6/360
+
+Card Name:	Talon Karrde, Smuggler Hero
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Legendary Creature - Human Rebel Outlaw 
+Pow/Tou:	2/3
+Card Text:	Talon Karrde gets +1/+0 for each legendary permanent you control.
+		Tap three legendary permanents you control: Target creature gets unblockable until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		42/360
+
+Card Name:	X-Wing Pilot
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	1/3
+Card Text:	2W, T: Crew target vehicle.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		47/360
+
+Card Name:	Ganner Rhysode
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	0/2
+Card Text:	Whenever Ganner Rhysode becomes the target of a spell or ability, put a +1/+1 counter on it.
+		Vigilance
+		T: Untap another target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		12/360
+
+Card Name:	Jedi Training
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		19/360
+
+Card Name:	Call Back to the Light
+Card Color:	W
+Mana Cost:	XWWW
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Up to X target creatures gain lifelink until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		5/360
+
+Card Name:	Dathomiri Rider
+Card Color:	R
+Mana Cost:	
+Type & Class:	Creature - Dathomiri Sith Warrior 
+Pow/Tou:	2/2
+Card Text:	Beast Bestow 4R
+		Enchanted creature gets +2/+2 and has trample.
+		When enchanted creature dies, transform Dathomiri Rider.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		159/360
+
+Card Name:	Colossal Spaceworm
+Card Color:	R
+Mana Cost:	6R
+Type & Class:	Creature - Worm Beast 
+Pow/Tou:	6/6
+Card Text:	Landfall - Whenever a land enters the battlefield, you may sacrifice it. If you do, draw a card and Colossal Spaceworm gains trample until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		153/360
+
+Card Name:	Fire-Blooded Sith
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Pureblood Sith 
+Pow/Tou:	4/1
+Card Text:	Madness 1R
+		If Fire-Blooded Sith's madness cost was paid, it gains haste until end of turn.
+		At the beginning of each end step, commit a treachery.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		167/360
+
+Card Name:	Rushing Rebel
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/1
+Card Text:	Haste
+		T: Rushing Rebel deals 1 damage to an opponent. Rushing Rebel deals 2 damage instead if you control three or more Rebels.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		187/360
+
+Card Name:	Flamethrower
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Flamethrower deals three damage to divided among any number of targets.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		168/360
+
+Card Name:	Reckless Rebel
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/3
+Card Text:	Whenever Reckless Rebel becomes blocked, it gets +2/+0 and gains trample until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		184/360
+
+Card Name:	Githany, the Treacherous
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Legendary Creature - Human Female 
+Pow/Tou:	2/2
+Card Text:	First Strike
+		Whenever Githany, the Treacherous is sacrificed, target creature gets first strike until end of turn.
+Flavor Text:	"She was never able to see past herself. She never understood the dark side."
+Artist:		
+Rarity:		C
+Card #:		172/360
+
+Card Name:	Battle for the Capital
+Card Color:	R
+Mana Cost:	5R
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		150/360
+
+Card Name:	Rebel Rouser
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/2
+Card Text:	Other Rebels you control get +1/+1.
+		RR, T: Create a 1/1 white Rebel creature token. Sacrifice it at the beginning of the next end step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		182/360
+
+Card Name:	Dual-Blade Savage
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	3/2
+Card Text:	Whenever you cast an instant or sorcery, you may commit a treachery. If you do, Dual-Blade Savage gains first strike until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		162/360
+
+Card Name:	Overwhelming Savagery
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +3/+2 until end of turn. If it is a Beast, it gains trample until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		178/360
+
+Card Name:	Sandtrooper
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	
+Card Text:	Haste
+		1R, T: Tap target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		188/360
+
+Card Name:	Tusken Rider
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Enchantment Creature - Beast 
+Pow/Tou:	2/2
+Card Text:	Beast Bestow 2R
+		Enchanted creature gets +2/+2 and has "When this creature dies, you may put a land from your library onto the battlefield tapped. Then shuffle your library."
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		194/360
+
+Card Name:	Chirpa, Ewok Chieftan
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Legendary Creature - Ewok Rebel 
+Pow/Tou:	1/1
+Card Text:	Haste
+		At the beginning of your end step, if you attacked with a Rebel this turn, you may discard a card. If you did, draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		152/360
+
+Card Name:	Come Under Fire
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Choose one:
+		• Destroy target non-creature artifact. If it shares a name with another artifact, destroy all cards sharing that name.
+		• Destroy target vehicle.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		154/360
+
+Card Name:	Serious Sharphsooter
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	1/1
+Card Text:	Haste, skulk
+		Whenever Serious Sharpshooter becomes the target of a spell, return it to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		190/360
+
+Card Name:	Dark Side Seduction
+Card Color:	R
+Mana Cost:	XRRR
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may commit any number of treacheries. Each treachery committed reduces the cost of this spell by 1.
+		Gain control of target creature with converted mana cost X or less.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		156/360
+
+Card Name:	Victorious Beastmaster
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Creature - Mandalorian Hunter 
+Pow/Tou:	2/1
+Card Text:	Trample
+		Victorious Beastmaster gets +1/+1 for each Beast you control.
+		Whenever a bounty counter is resolved, gain 2 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		240/360
+
+Card Name:	Release the Beast
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Choose one:
+		• Target creature you control fights target creature you don't control.
+		• Create a 3/3 green Beast creature token.
+		• Put a bounty counter on target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		234/360
+
+Card Name:	Virulent Plague
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	When enchanted land becomes tapped, add an additional mana of any color.
+		When enchanted land becomes untapped, put a -1/-1 counter on target creature you control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		241/360
+
+Card Name:	Acklay Behemoth
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Acklay Beast 
+Pow/Tou:	3/2
+Card Text:	Reach, Deathtouch
+Flavor Text:	It's not a true gladiator fight without one.
+Artist:		
+Rarity:		C
+Card #:		196/360
+
+Card Name:	Feral Hunter
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Creature - Trandoshan Hunter 
+Pow/Tou:	5/5
+Card Text:	Feral Hunter can only attack or block if a creature your opponent controls has a bounty counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		217/360
+
+Card Name:	Attune to Nature
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Jedi Sorcery
+Pow/Tou:	
+Card Text:	Look at the top three cards of your library. You may reveal a land and put it on the battlefield. Then, you may reveal a creature card and put it into your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		197/360
+
+Card Name:	Sarlacc Pit
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Enchantment Creature - Plant Beast 
+Pow/Tou:	0/4
+Card Text:	Flash, Reach
+		When Sarlacc Pit enters the battlefield, you may exile target creature with a bounty counter on it until Sarlacc Pit leaves the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		236/360
+
+Card Name:	Tall-Tree Ysalamari
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Ysalamari Beast 
+Pow/Tou:	
+Card Text:	Players cannot cast Jedi or Sith Instants or Sorceries.
+		1: Activated abilities of Jedi and Sith cost 1 more to activate.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		238/360
+
+Card Name:	Far-Reaching Hunter
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Human Outlaw 
+Pow/Tou:	2/1
+Card Text:	Bounty, Reach
+		When Far-Reaching Hunter enters the battlefield, it deals X damage to target creature, where X is the number of bounty counters on the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		216/360
+
+Card Name:	Fight Out of the Hole
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature you control fights another target creature. If the opponent's creature dies, put a bounty counter on another target creature.
+Flavor Text:	"The Sarlacc found me somewhat indigestible, Solo." - Boba Fett
+Artist:		
+Rarity:		C
+Card #:		218/360
+
+Card Name:	Ithor's Communer
+Card Color:	G
+Mana Cost:	5G
+Type & Class:	Creature - Ithorian Jedi 
+Pow/Tou:	0/5
+Card Text:	Landfall - Whenever a land enters the battlefield under your control, target creature gets +0/+2 and deals damage equal to its toughness until end of turn.
+		1GG: Reveal the top card of your library. If it is a land, put it onto the battlefield tapped. Otherwise, you may put it into the graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		221/360
+
+Card Name:	Domineering Domain
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Vong Warrior 
+Pow/Tou:	2/2
+Card Text:	Landfall - Whenever a land enters the battlefield under your control, reveal the top card of your library. If it is a land, you may put it onto the battlefield tapped.
+		2G, Sacrifice a land: Put two +1/+1 counters on a Vong creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		212/360
+
+Card Name:	Return to Prominence
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		235/360
+
+Card Name:	Padawan Adept
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	0/1
+Card Text:	Vigilance
+		1G: Padawan Adept gets +1/+1 until end of turn.
+		T: Creatures you control with toughness less than Padawan Adept deal damage equal to their toughness until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		231/360
+
+Card Name:	Nightsister Scout
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Dathomiri Scout 
+Pow/Tou:	
+Card Text:	Madness 1B
+		If Nightsister Scout would be sacrificed, you may pay 2. If you do, return Nightsister Scout to your hand at the beginning of the next end step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		128/360
+
+Card Name:	Bib Fortuna, Majordomo
+Card Color:	B
+Mana Cost:	1BBB
+Type & Class:	Legendary Creature - Twi'lek Outlaw 
+Pow/Tou:	1/1
+Card Text:	Creatures with bounty counters on them cost 1 less to target.
+		3B: Put a bounty counter on target creature.
+Flavor Text:	"I make it my business to know things about people like you."
+Artist:		
+Rarity:		C
+Card #:		101/360
+
+Card Name:	Jedi Healer
+Card Color:	G
+Mana Cost:	2G
+Type & Class:	Creature - Twi'lek Jedi 
+Pow/Tou:	0/3
+Card Text:	When Jedi Healer enters the battlefield, target creature gets +0/+2 until end of turn.
+		Creatures you control cost 1 less to cast.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		222/360
+
+Card Name:	Base Reconnisance
+Card Color:	G
+Mana Cost:	XXG
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature's color.)
+		Search your library for up to X lands and put them into play tapped.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		198/360
+
+Card Name:	Super Battle Droid
+Card Color:	Gld
+Mana Cost:	3B
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	2/2
+Card Text:	Deathtouch
+		Whenever Super Battle Droid deals combat damage to a player, you may pay 2B. If you do, you may return an artifact from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		137/360
+
+Card Name:	Reanimated Trooper
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Human Officer 
+Pow/Tou:	1/1
+Card Text:	When Reanimated Trooper dies, you gain 2 life.
+		3B: Return Reanimated Trooper from the graveyard to the battlefield tapped.
+Flavor Text:	No fate could be more terrifying than being trapped inside deep space.
+Artist:		
+Rarity:		C
+Card #:		131/360
+
+Card Name:	Thermal Detonator
+Card Color:	Gld
+Mana Cost:	B
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Thermal Detonator enters the battlefield with three time counters on it.
+		At the beginning of each upkeep, remove a time counter from it. When the final time counter is removed, sacrifice Thermal Detonator and it deals three damage to any target.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		140/360
+
+Card Name:	Backstreet Vagabond
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Duros Assassin 
+Pow/Tou:	2/1
+Card Text:	Bounty
+		Whenever Backstreet Vagabond is blocked or blocks a creature with a bounty counter on it, Backstreet Vagabond gains deathtouch until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		99/360
+
+Card Name:	Collect the Bounty
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Destroy target creature with a bounty counter on it. Then put a Holocron onto the battlefield.
+Flavor Text:	Bounty hunter are far more than mercenaries for hire - they're heirs to a professional legacy.
+Artist:		Gus Menidonca
+Rarity:		C
+Card #:		106/360
+
+Card Name:	Malevolent Hunter
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Twilek Sith 
+Pow/Tou:	5/1
+Card Text:	Bounty
+		Whenever Malevolent Hunter becomes blocked by a creature with a bounty counter on it, it gains first strike.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		124/360
+
+Card Name:	Data Dump
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto artifact B (As you cast an artifact spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+		Return two artifacts or creatures from your graveyard to your hand. If you spliced onto artifact, return one artifact or creature to your hand from your graveyard, instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		112/360
+
+Card Name:	Mother Talzin's Revenge
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		125/360
+
+Card Name:	Offer Up a Hunt
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		129/360
+
+Card Name:	Tsmeu-6 Wheel Bike
+Card Color:	Gld
+Mana Cost:	4B
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	4/4
+Card Text:	Crew 3
+		Haste, Menace
+		If an artifact was tapped to crew this vehicle, draw a card.
+Flavor Text:	There is no more aggressive escape vehicle in the galaxy.
+Artist:		
+Rarity:		C
+Card #:		143/360
+
+Card Name:	Deepwater Infiltrator
+Card Color:	Gld
+Mana Cost:	1U
+Type & Class:	Artifact Creature - Imperial Droid 
+Pow/Tou:	0/0
+Card Text:	Deepwater Infiltrator is unblockable.
+		Deepwater Infiltrator gets +X/+X, where X is the number of other artifacts under your control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		57/360
+
+Card Name:	Ryloth Engineer
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Creature - Twilek Outlaw 
+Pow/Tou:	0/1
+Card Text:	T: Add C to your mana pool. This mana may only be spent to cast or activate artifact spells.
+		T, Sacrifice Ryloth Engineer: Return an artifact from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		83/360
+
+Card Name:	Jawa Horde
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Creature - Jawa Engineer 
+Pow/Tou:	0/3
+Card Text:	Whenever you splice onto an artifact, put a +1/+1 counter on Jawa Horde.
+		Remove a +1/+1 counter from Jawa Horde: Return target artifact from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		69/360
+
+Card Name:	Secret Upgrades
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Splice onto artifact U (As you cast an artifact spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+		Put a +1/+1 counter on target artifact and draw a card. If you spliced onto artifact, draw a card instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		85/360
+
+Card Name:	Dark Side's Protection
+Card Color:	U
+Mana Cost:	UU
+Type & Class:	Sith Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may commit a treachery.
+		Counter target spell unless its controller pays 1. If you committed a treachery, counter target spell, instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		55/360
+
+Card Name:	Reproduction Line
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto artifact UU (As you cast an artifact spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+		Return target creature or artifact to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		82/360
+
+Card Name:	Mindbending Acrobatist
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	2/3
+Card Text:	Whenever you cast a Jedi Instant or Sorcery, Mindbending Acrobatist gets +2/+2 and gains flying until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		74/360
+
+Card Name:	Reflect
+Card Color:	U
+Mana Cost:	4U
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Change the target of target instant or sorcery. You lose life equal to its converted mana cost.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		81/360
+
+Card Name:	Meddling Machine
+Card Color:	Gld
+Mana Cost:	U
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	0/1
+Card Text:	T: Return an artifact to your hand. If you do, an opponent puts the top three cards of their library into their graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		73/360
+
+Card Name:	2-1B Surgical Droid
+Card Color:	Gld
+Mana Cost:	1U
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	0/3
+Card Text:	2U, T: Exile target creature you control.
+		T: You may cast a card exiled by 2-1B Surgical Droid.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		49/360
+
+Card Name:	Jedi Foreteller
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	1/2
+Card Text:	Each player plays with the top card of their deck revealed. Each player may cast instants and sorceries revealed this way.
+		U, T: Each player puts the top card of their library in their graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		70/360
+
+Card Name:	Dark-Side Cloner
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Kaminoan Sith 
+Pow/Tou:	2/2
+Card Text:	Whenever you cast an instant or sorcery, put a +1/+1 counter on Dark-Side Cloner.
+		Remove three +1/+1 counters from Dark-Side Cloner: Return an instant or sorcery from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		56/360
+
+Card Name:	Alema Rar
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Legendary Creature - Twi'lek Jedi 
+Pow/Tou:	1/6
+Card Text:	Madness 2U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		If Alema Rar was cast from exile, its base power and toughness are 6/1 instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		52/360
+
+Card Name:	Thought Bomb
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may commit a treachery.
+		Return all creatures to their owners' hands. Then, if you committed a treachery, you may cast a creature from your hand without paying its mana cost.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		94/360
+
+Card Name:	Senator Bail Organa
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Legendary Creature - Human Noble 
+Pow/Tou:	2/2
+Card Text:	Creatures you control cost 1 more to target.
+		Whenever another legendary permanent you control becomes the target of a spell, create a Holocron token.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		86/360
+
+Card Name:	Nightsister Initiate
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	1/1
+Card Text:	Whenever you cast a Sith instant or sorcery, transform Nightsister Initiate.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		76/360
+
+Card Name:	Secret Intelligence
+Card Color:	U
+Mana Cost:	XU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	You may look at the top X cards of a player's library. Choose up to one card and put it on top of its owner's library and put the rest into their owner's graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		84/360
+
+Card Name:	Nightmother's Call
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may commit a treachery.
+		Return a creature from the graveyard to your hand. If you committed a treachery, draw a card.
+Flavor Text:	"You have an important destiny to fulfill, Savage Opress. You, and your brother."
+Artist:		
+Rarity:		C
+Card #:		127/360
+
+Card Name:	Force Drain
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	Destroy target creature. Gain X life, where X is the destroyed creature's power.
+Flavor Text:	"It is a technique that is almost as old as the Sith themselves... it is a means of severing connections between life, the Force, and feeding upon the death it causes."
+Artist:		
+Rarity:		C
+Card #:		120/360
+
+Card Name:	Cade Bane, Bounty Hunter
+Card Color:	B
+Mana Cost:	BB
+Type & Class:	Legendary Creature - Duros Outlaw 
+Pow/Tou:	1/1
+Card Text:	As long as a creature an opponent controls has a bounty counter on it, Cad Bane has skulk.
+		Whenever Cad Bane deals combat damage to a player, create a Holocron.
+Flavor Text:	"I never leave a mess unless I'm paid to leave a mess. I'm a professional." 
+Artist:		
+Rarity:		C
+Card #:		105/360
+
+Card Name:	DSD1 Dwarf Spider Droid
+Card Color:	Gld
+Mana Cost:	5BB
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	4/3
+Card Text:	Reach
+		When Spider Droid dies, it deals 3 damage to a creature that dealt damage to it this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		116/360
+
+Card Name:	Bountyhunter Bowcaster
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Enchantment 
+Pow/Tou:	
+Card Text:	Bounty
+		Equip 2
+		Whenever equipped creature destroys a creature with a bounty counter on it, put a bounty counter on another target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		338/360
+
+Card Name:	Jedi Holocron
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Holocron 
+Pow/Tou:	
+Card Text:	Sacrifice Jedi Holocron: Add one mana of any color.
+		1, T: Add W, G, or U.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		343/360
+
+Card Name:	Sith Holocron
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Holocron 
+Pow/Tou:	
+Card Text:	Sacrifice Sith Holocron: Add one mana of any color.
+		1, T: Add R, B, or U.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		345/360
+
+Card Name:	AT-AT
+Card Color:	Art
+Mana Cost:	4
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	6/6
+Card Text:	Crew 2
+		Trample
+		At the beginning of your end step, if AT-AT was blocked this turn, sacrifice it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		336/360
+
+Card Name:	Begin the Hunt
+Card Color:	B
+Mana Cost:	XXB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put a bounty counter on up to X target creatures.
+		Creatures with bounty counters on them get -1/-1 until end of turn.
+Flavor Text:	"I see why they call you the best bounty hunter in the galaxy." - Darth Vader
+Artist:		
+Rarity:		C
+Card #:		100/360
+
+Card Name:	Last Resort
+Card Color:	Gld
+Mana Cost:	R/WR/W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature you control gets +3/+0 until end of turn. Sacrifice it at the end of the turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		330/360
+
+Card Name:	Alliance Spymaster
+Card Color:	Gld
+Mana Cost:	1W/UW/U
+Type & Class:	Creature - Bothan Rebel Spy 
+Pow/Tou:	1/3
+Card Text:	Skulk (This creature can't be blocked by creatures with greater power.)
+		Whenever a legendary creature enters the battlefield or attacks, scry 1.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		320/360
+
+Card Name:	Duel of the Fates
+Card Color:	Gld
+Mana Cost:	2W/BW/B
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	If you control more Sith, creatures you control get +2/+0.
+		If you control more Jedi, creatures you control get +0/+2.
+		If you control an equal number of Sith and Jedi, creatures you control get -1/-1.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		325/360
+
+Card Name:	Unyielding Order
+Card Color:	Gld
+Mana Cost:	2G/WG/W
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Creatures you control get +0/+1.
+		3GW: Creatures you control deal damage equal to their toughness until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		334/360
+
+Card Name:	Entechment
+Card Color:	Gld
+Mana Cost:	U/BU/B
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant a creature you control.
+		Enchanted creature cannot attack or block.
+		When enchanted creature dies, return it to the battlefield with and gain 2 life. It becomes an artifact in addition to its other types.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		326/360
+
+Card Name:	Focus the Will
+Card Color:	Gld
+Mana Cost:	G/UG/U
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, pay 4 life.
+		Prevent all combat damage that would be dealt until your next turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		327/360
+
+Card Name:	Hateful Witch
+Card Color:	Gld
+Mana Cost:	1U/RU/R
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	0/2
+Card Text:	T: Deal 1 damage to each player.
+		T, Commit a treachery: Instants and sorceries cost 2 less to cast until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		328/360
+
+Card Name:	Cartel Contractor
+Card Color:	Gld
+Mana Cost:	3B/GB/G
+Type & Class:	Creature - Rodian Outlaw 
+Pow/Tou:	2/4
+Card Text:	Bounty
+		Whenever a creature with a bounty counter your opponent controls dies, you may put a bounty on target creature an opponent controls.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		323/360
+
+Card Name:	Dark Apprenticeship
+Card Color:	Gld
+Mana Cost:	B/RB/R
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Madness 1B/RB/R
+		Enchant creature with converted mana cost four or less.
+		Gain control of enchanted creature. When enchanted creature dies, commit a treachery and return enchanted creature to the battlefield under its owner's control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		324/360
+
+Card Name:	Hatred of Machines
+Card Color:	Gld
+Mana Cost:	R/GR/G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Creatures you control have haste.
+		2R/G: Create a 1/1 red Yuuzhan Vong creature token. Activate this ability only if your opponent controls an artifact.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		329/360
+
+Card Name:	Young Aristocrat
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Creature - Duros Noble Rebel 
+Pow/Tou:	1/2
+Card Text:	When Young Aristocrat enters the battlefield, put a Holocron token onto the battlefield.
+		Sacrifice a Holocron: Put a 1/1 white Rebel creature token onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		48/360
+
+Card Name:	Jedi Pugilist
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Creature - Cerean Jedi 
+Pow/Tou:	0/3
+Card Text:	Vigilance
+		Whenever Jedi Pugilist becomes tapped, it deals 1 damage to target player.
+		T: Until end of turn, target creature you control deals damage equal to its toughness.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		18/360
+
+Card Name:	Regal Sacrifice
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	1/1
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		38/360
+
+Card Name:	Gather Insight
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Jedi Sorcery
+Pow/Tou:	
+Card Text:	Until end of turn, your lands have "T: Create a Holocron."
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		13/360
+
+Card Name:	Rebel X-Wing
+Card Color:	Gld
+Mana Cost:	3W
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	3/3
+Card Text:	Flying, First Strike
+		Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)
+		T: Remove target attacking creature you control from combat. Untap it.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		36/360
+
+Card Name:	Satele Shan
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	1/2
+Card Text:	Double Strike
+		When Satele Shan enters the battlefield, put a bounty counter on target creature you control. As long as that creature has a bounty counter on it, Satele Shan has indestructible.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		41/360
+
+Card Name:	Mace Windu, Blademaster
+Card Color:	W
+Mana Cost:	WWW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	3/2
+Card Text:	If Mace Windu, Blademaster would deal damage equal to his toughness this turn, it gains +0/+3 until end of turn.
+		T: Mace Windu gains Protector 3.
+Flavor Text:	"For the Order and the Republic, I will give anything and everything, including my life."
+Artist:		
+Rarity:		U
+Card #:		27/360
+
+Card Name:	Regal Guardian
+Card Color:	W
+Mana Cost:	4WW
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	0/5
+Card Text:	Flash
+		When Regal Guardian enters the battlefield, choose one:
+		• Until end of turn, creatures you control deal damage equal to their toughness.
+		• Create two 0/2 white Jedi Knight creature tokens.
+		• Exile another target creature and then return it to the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		37/360
+
+Card Name:	Forced Into Exile
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		9/360
+
+Card Name:	Imperial Guardsman
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Creature - Human Warrior 
+Pow/Tou:	1/1
+Card Text:	First Strike
+		Whenever you commit a treachery, you may pay 2. If you do, create a copy of Imperial Guardsman.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		173/360
+
+Card Name:	Feral Vornskyrs
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Creature - Vornskyrs Beast 
+Pow/Tou:	3/2
+Card Text:	Whenever a player casts an instant or sorcery, Feral Vornskyrs deals 1 damage to that player.
+		R: Feral Vornskyrs gets +1/+0 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		164/360
+
+Card Name:	Rebellion Blademaster
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Wookie Rebel 
+Pow/Tou:	4/1
+Card Text:	Reach
+		If you control three or more Rebels, Rebellion Blademaster has double strike.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		183/360
+
+Card Name:	Final Gamble
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	You may only cast this during a player's upkeep step.
+		Search your library for a card and reveal it. If your opponent casts a spell this turn, discard that card and your opponent creates a 4/4 black Dreadnought artifact creature token with flying.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		166/360
+
+Card Name:	Lando, Suave Captain
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Legendary Creature - Human Rebel 
+Pow/Tou:	2/1
+Card Text:	Whenever you commit a treachery, put a +1/+1 counter on Lando. Then, if there are three or more +1/+1 counters on Lando, transform it.
+		R, T: Commit a treachery.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		175/360
+
+Card Name:	Spiritspeaker
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	3/2
+Card Text:	3: Put the top three cards of your library into your graveyard.
+		At the beginning of your end step, if there are three or more instant or sorceries card in your graveyard, you may transform Spirtspeaker.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		193/360
+
+Card Name:	Millennium Falcon
+Card Color:	Gld
+Mana Cost:	1R
+Type & Class:	Legendary Artifact - Vehicle 
+Pow/Tou:	2/2
+Card Text:	Indestructible, Flying
+		Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)
+		Whenever Millennium Falcon deals combat damage to a player, discard a card, then draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		176/360
+
+Card Name:	Impetuous Shotcaller
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Creature - Rodian Outlaw 
+Pow/Tou:	4/1
+Card Text:	Flash
+		When Impetuous Shotcaller enters the battlefield, choose one:
+		• Creatures you control get +2/+0 and gain haste until end of turn.
+		• Create two Holocron tokens.
+		• Discard a card then draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		174/360
+
+Card Name:	Force Lightning
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Sith Instant
+Pow/Tou:	
+Card Text:	Force Lightning deals 3 damage to any target.
+Flavor Text:	"Power! Unlimited power!" - Darth Sidious
+Artist:		
+Rarity:		U
+Card #:		169/360
+
+Card Name:	Lifeweb Weaver
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Creature - Miraluka Jedi 
+Pow/Tou:	0/2
+Card Text:	Vigilance
+		T: Add one mana of any color to your mana pool.
+		T: Target creature deals damage equal to its toughness until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		226/360
+
+Card Name:	Nerf Herder
+Card Color:	G
+Mana Cost:	3G
+Type & Class:	Creature - Human Farmer 
+Pow/Tou:	0/2
+Card Text:	When Nerf Herder enters the battlefield, create a 3/3 green Beast creature token.
+		T, Return a Beast creature you control to your hand: Return Nerf Herder to your hand.
+Flavor Text:	"Why you stuck-up, half-witted, scruffy-looking nerfherder!" - Leia Organa arguing with Han Solo
+Artist:		
+Rarity:		U
+Card #:		230/360
+
+Card Name:	Bull Rancor
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Rancor Beast 
+Pow/Tou:	2/4
+Card Text:	When Bull Rancor enters the battlefield, it fights target creature. Then, at the beginning of your end step, put X +1/+1 counters on Bull Rancor, where X is the amount of damage dealt to Bull Rancor this turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		206/360
+
+Card Name:	Mountaintop Hunter
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Creature - Barabel Outlaw 
+Pow/Tou:	3/2
+Card Text:	Bounty, Trample
+		Whenever a creature with a bounty counter on it dies, put a +1/+1 counter on Mountaintop Hunter.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		229/360
+
+Card Name:	Expanding Knowledge
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		214/360
+
+Card Name:	Kit Fisto, Jedi Hero
+Card Color:	G
+Mana Cost:	1GG
+Type & Class:	Legendary Creature - Nautolan Jedi 
+Pow/Tou:	0/3
+Card Text:	Vigilance
+		T: Target creature deals damage equal to its toughness until end of turn.
+		3G, T: Return an instant or sorcery from your graveyard to your hand.
+Flavor Text:	"Those who have power should restrain themselves from using it."
+Artist:		
+Rarity:		U
+Card #:		224/360
+
+Card Name:	Black Sun Hunter
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Creature - Trandoshan Outlaw 
+Pow/Tou:	3/3
+Card Text:	Bounty
+		Whenever a bounty is resolved, you may search your library for a basic land and put it onto the battlefield tapped.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		199/360
+
+Card Name:	Bloodseeker Vong
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Creature - Vong Warrior 
+Pow/Tou:	3/2
+Card Text:	Flash
+		When Bloodseeker Vong enters the battlefield, choose one:
+		• Search your library for a land and put it onto the battlefield tapped.
+		• Put three +1/+1 counter on target creature.
+		• Destroy target artifact.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		201/360
+
+Card Name:	Paradise Avian
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Bird Beast 
+Pow/Tou:	0/1
+Card Text:	Flying
+		T: Add one mana of any color to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		232/360
+
+Card Name:	BX Hunter Series
+Card Color:	Gld
+Mana Cost:	4BB
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	2/2
+Card Text:	Suspend 2 1BB
+		When BX Hunter Series enters the battlefield, destroy target creature.
+		BB: Return BX Hunter Series to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		104/360
+
+Card Name:	Zam Wessel, Assassin
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Legendary Creature - Clawdite Outlaw 
+Pow/Tou:	1/1
+Card Text:	Bounty, Skulk
+		When Zam Wessel, Assassin enters the battlefield, it becomes a copy of target creature with a bounty counter on it, but has skulk.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		146/360
+
+Card Name:	Droideka
+Card Color:	Gld
+Mana Cost:	5B
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	4/4
+Card Text:	If it is not your turn and Droideka would be dealt damage, prevent that damage and put a -1/-1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		115/360
+
+Card Name:	Thousand-Bladed Master
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	3/1
+Card Text:	Whenever Thousand-Bladed Master attacks, you may commit a treachery. If you do, Thousand-Bladed Master gets double strike until end of turn. (To commit a treachery, you may either sacrifice a creature or pay 2 life.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		141/360
+
+Card Name:	Surrender to the Dark Side
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		138/360
+
+Card Name:	Underworld Weaponsmith
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - ??? Outlaw 
+Pow/Tou:	2/2
+Card Text:	Bounty
+		Whenever a bounty is resolved, search your library for an Equipment, reveal it, and put it into your hand.
+		Sacrifice three Holocrons: Put target Equipment onto the battlefield and equip it to target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		144/360
+
+Card Name:	Submit to Vader
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		136/360
+
+Card Name:	Tomb Expert
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	3/2
+Card Text:	Flash
+		When Tomb Expert enters the battlefield, choose one:
+		• Tomb Expert deals three damage to target creature and you gain three life.
+		• Return target creature to the battlefield with converted mana cost 3 or less.
+		• Put a bounty counter on up to two target creatures.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		142/360
+
+Card Name:	Dark Inquisition
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target player reveals his or her hand. You choose a nonland card from it with converted mana cost three or less. That player discards that card.
+Flavor Text:	"Everything is proceeding just as I have foreseen."
+Artist:		
+Rarity:		U
+Card #:		109/360
+
+Card Name:	Holocron Adept
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Creature - Twi'lek Jedi 
+Pow/Tou:	*/*
+Card Text:	When Holocron Adept enters the battlefield, create two Holocron tokens.
+		Holocron Adept's power and toughness are equal to the number of Holocrons on the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		67/360
+
+Card Name:	Address the Senate
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Draw a card for each legendary permanent you control.
+Flavor Text:	"Many a foolish notion has won support in that body and many a falsehood has enjoyed currency in that room."
+Artist:		
+Rarity:		U
+Card #:		50/360
+
+Card Name:	Lightning Enthusiast
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	2/2
+Card Text:	Whenever you cast a Sith instant or sorcery, you may commit a treachery. If you do, draw a card. (To commit a treachery, you may either sacrifice a creature or pay 2 life.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		72/360
+
+Card Name:	Duchess Satine
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Legendary Creature - Human Noble 
+Pow/Tou:	1/1
+Card Text:	Flash
+		When Duchess Satine enters the battlefield, counter target spell an opponent controls unless they pay X, where X is the number of legendary permanents you control.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		59/360
+
+Card Name:	Recon Droid
+Card Color:	Gld
+Mana Cost:	1U
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	1/1
+Card Text:	Flying
+		Whenever a card is spliced onto Recon Droid, you may look at the top card of an opponent's library. If you do, you may put it into their graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		80/360
+
+Card Name:	Perfectly Laid Plan
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	You may put an artifact in your hand onto the battlefield. It becomes a 4/4 black artifact creature Dreadnought in addition to its other types. At the beginning of the next end step, return it to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		77/360
+
+Card Name:	Corruptive Exploits
+Card Color:	U
+Mana Cost:	5UU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto artifact 1U (As you cast an artifact spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+		Artifacts you control become 4/4 black creatures. If Corruptive Exploits was spliced, one target artifact becomes a 4/4 black creature instead.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		53/360
+
+Card Name:	Willbender
+Card Color:	U
+Mana Cost:	4UU
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	1/4
+Card Text:	Flash
+		When Willbender enters the battlefield, choose one:
+		• Cast an instant or sorcery spell from your graveyard without paying its mana cost.
+		• Counter target spell.
+		• Draw two cards.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		97/360
+
+Card Name:	Ponder the Force
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+		Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		78/360
+
+Card Name:	The Senate
+Card Color:	Gld
+Mana Cost:	1WU
+Type & Class:	Legendary Artifact
+Pow/Tou:	
+Card Text:	T: Tap target creature or artifact. That target's controller creates a Holocron artifact.
+		Sacrifice 3 Holocrons: Destroy The Senate. Any player may activate this ability.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		304/360
+
+Card Name:	Rebel Shotcaller
+Card Color:	Gld
+Mana Cost:	RW
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/2
+Card Text:	RR: Return target blocked creature you control to its owner's hand.
+		WW: Untap target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		298/360
+
+Card Name:	Youngling Mentor
+Card Color:	Gld
+Mana Cost:	1GW
+Type & Class:	Creature - Zabrack Jedi 
+Pow/Tou:	0/4
+Card Text:	Vigilance
+		T: Until end of turn, creatures you control deal damage equal to their toughness.
+		4GW: Create a 0/2 white Jedi Knight creature token.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		319/360
+
+Card Name:	Collector of Traditions
+Card Color:	Gld
+Mana Cost:	1WB
+Type & Class:	Creature - Human Explorer 
+Pow/Tou:	2/3
+Card Text:	Whenever you cast an enchantment, create a Holocron.
+		Whenever you sacrifice a enchantment, you may transform a creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		255/360
+
+Card Name:	Darth Chratis, the Unnatural
+Card Color:	Gld
+Mana Cost:	1UR
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	1/1
+Card Text:	Whenever Darth Chratis, the Unnatural becomes blocked, you may sacrifice it. If you do, you may cast an instant or sorcery from your graveyard until end of turn.
+		UR: Return Darth Chratis, the Unnatural from the graveyard to the battlefield. It gains haste until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		258/360
+
+Card Name:	Seek the Past
+Card Color:	Gld
+Mana Cost:	2GU
+Type & Class:	Enhancement
+Pow/Tou:	
+Card Text:	When seek the Past enters the battlefield, exile a Jedi instant or sorcery from your graveyard with converted mana cost three or less.
+		When another Jedi enters the battlefield, you may cast a copy of the exiled card without paying its mana cost.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		303/360
+
+Card Name:	Orbital Bombardment
+Card Color:	Gld
+Mana Cost:	3UB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto Artifact UB (As you cast an Artifact spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)
+		Orbital Bombardment deals 2 damage to each non-Officer creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		292/360
+
+Card Name:	Vong Shaper
+Card Color:	Gld
+Mana Cost:	1RG
+Type & Class:	Creature - Yuuzhan Vong Shaper 
+Pow/Tou:	1/3
+Card Text:	Beasts you control have evolve.
+		T: Target Beast gets +X/+0 until end of turn, where X is the highest power among Beasts you control.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		314/360
+
+Card Name:	Sith Succeeder
+Card Color:	Gld
+Mana Cost:	1BBR
+Type & Class:	Creature - Natolean Sith 
+Pow/Tou:	1/4
+Card Text:	Deathtouch
+		Whenever Sith Succeeder attacks, you may commit a treachery. If you do, Sith Succeeder deals X damage to target player, where X is the number of creatures in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		307/360
+
+Card Name:	Jabba the Hutt
+Card Color:	Gld
+Mana Cost:	BBGG
+Type & Class:	Legendary Creature - Hutt Outlaw 
+Pow/Tou:	2/6
+Card Text:	Bounty, Menace
+		Whenever a creature with a bounty counter would die, exile it instead.
+		X: You may cast a creature card from your graveyard with converted mana cost X, where X is less than or equal to the number of creatures exiled by Jabba the Hutt.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		274/360
+
+Card Name:	Darksaber
+Card Color:	Art
+Mana Cost:	4
+Type & Class:	Legendary Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 1
+		Equipped creature gets +1/+1 and gains lifelink and deathtouch.
+		When equipped creature dies, an opponent gains control of Darksaber.
+Flavor Text:	"I claim this sword, and my rightful place as leader of Death Watch!" - Darth Maul
+Artist:		
+Rarity:		U
+Card #:		340/360
+
+Card Name:	Bacta Tank
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	When Bacta Tank enters the battlefield, put 3 bacta counters on it.
+		At the beginning of your end step, remove a bacta counter from it and return a non-artifact creature you own that died this turn to your hand.
+Flavor Text:	"Some pretty serious burns, but nothing a night in the bacta tank won't fix."
+Artist:		
+Rarity:		U
+Card #:		337/360
+
+Card Name:	Carbonite Block
+Card Color:	Art
+Mana Cost:	5
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Bounty
+		When Carbonite Block enters the battlefield, exile target non-land permanent with a bounty counter on it until Carbonite Block leaves the battlefield. Put a bounty counter on it.
+Flavor Text:	"Yes, he's alive... and in perfect hibernation." - Darth Vader
+Artist:		
+Rarity:		U
+Card #:		339/360
+
+Card Name:	A280 Blaster Rifle
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 2
+		Equipped creature gains "T: Target creature deals 2 damage to target player."
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		335/360
+
+Card Name:	Hailfire Droid
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	1/1
+Card Text:	Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)
+		Hailfire Droid gets +1/+1 for each other artifact you control.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		341/360
+
+Card Name:	Leia, Astute Leader
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Legendary Creature - Human Rebel 
+Pow/Tou:	2/4
+Card Text:	At the beginning of your combat step, untap all creatures you control. If you untapped three or more creatures, transform Leia, Astute Leader.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		24/360
+
+Card Name:	Padme Amidala
+Card Color:	W
+Mana Cost:	WW
+Type & Class:	Legendary Creature - Human Noble 
+Pow/Tou:	1/1
+Card Text:	W, T: Reveal the top card of your library until you reveal a legendary permanent. Exile it, and put the rest of the cards revealed this way onto the bottom of your library in a random order.
+		When Padme Amidala dies, return all cards exiled by it to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		31/360
+
+Card Name:	Pelta Command Ship
+Card Color:	Gld
+Mana Cost:	5WW
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	4/4
+Card Text:	Flying
+		Crew 5
+		Whenever Pelta Command Ship becomes a creature, create X 1/1 white Rebel creature tokens, where X is the number of Rebel creatures you control.
+		Rebels you control get +1/+1.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		32/360
+
+Card Name:	Armistice
+Card Color:	W
+Mana Cost:	5WW
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of each upkeep, create a 1/1 white Rebel creature token.
+		At the beginning of each end step, if a player attacked this turn, sacrifice Armistice and destroy all creatures that player controls.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		2/360
+
+Card Name:	Last Minute Maneuvers
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Flash
+		Creatures in your hand and graveyard have flash. You may cast cards from your graveyard.
+		At the beginning of the end step, sacrifice Last Minute Maneuvers.
+Flavor Text:	"It's a trap!" - Admiral Ackbar
+Artist:		
+Rarity:		R
+Card #:		23/360
+
+Card Name:	War-Time Alliance
+Card Color:	W
+Mana Cost:	1WWW
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	When War-Time Alliance enters the battlfield, choose two creature types.
+		The two chosen creature types get +1/+1.
+Flavor Text:	"You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this."
+Artist:		
+Rarity:		R
+Card #:		46/360
+
+Card Name:	Lightsaber Construction
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Search your library for target Equipment and attach it to target Jedi creature you control.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		25/360
+
+Card Name:	Abeloth, Beloved Queen
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Legendary Creature - Ones Sith 
+Pow/Tou:	5/2
+Card Text:	As an additional cost to cast Abeloth, Beloved Queen, commit a treachery.
+		You may cast Abeloth from your graveyard.
+		First Strike
+		1R: Abeloth deals 2 damage to target creature and 1 damage to itself.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		147/360
+
+Card Name:	Solo, Legendary Smuggler
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Legendary Creature - Human Rebel Outlaw 
+Pow/Tou:	1/1
+Card Text:	Menace
+		1, Q: Discard a card at random, then draw two cards.
+		At the beginning of your end step, you may reveal your hand. If you reveal two vehicles this way, transform Solo, Legendary Smuggler.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		191/360
+
+Card Name:	Entrance to the Galaxy
+Card Color:	R
+Mana Cost:	RR
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		163/360
+
+Card Name:	Front-Line Strategist
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	1/1
+Card Text:	Haste
+		Whenever Front-Line Strategist becomes tapped, choose one:
+		• Discard a card, then draw a card.
+		• Untap another target creature.
+		• Deal 1 damage to any target.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		171/360
+
+Card Name:	Scorched-Earth Conflict
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, put a war counter on Scorched-Earth Conflict, then you may pay that much mana. If you do, search your library for a land and put it onto the battlefield tapped. If you don't, sacrifice Scorched-Earth Conflict and create that many 1/1 red Yuuzhan Vong creature tokens with protection from artifacts.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		189/360
+
+Card Name:	Darth Bane, Final Sith
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	6/6
+Card Text:	Bane, Last Sith gets -X/-X, where X is the number of other creatures you control.
+		T: Commit a treachery.
+		When you control no other creatures, transform Darth Bane.
+Flavor Text:	"The Brotherhood must be purged. The    Sith must be destroyed and rebuilt.
+Artist:		
+Rarity:		R
+Card #:		157/360
+
+Card Name:	AT-ST
+Card Color:	Gld
+Mana Cost:	R
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	3/3
+Card Text:	Haste, First Strike
+		Crew 4
+		When AT-ST deals combat damage, AT-ST deals 3 damage to target blocking creature.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		149/360
+
+Card Name:	Zillo Beast
+Card Color:	G
+Mana Cost:	10GG
+Type & Class:	Legendary Creature - Zillo Beast 
+Pow/Tou:	6/10
+Card Text:	If you control more lands than your opponent, Zillo Beast costs X less to cast, where X is the difference.
+		Trample, Indestructible
+Flavor Text:	"They once roamed Malastare, devouring our ancestors. When the Dugs first started harvesting the fuel in the planet's core, they were killed off."
+Artist:		
+Rarity:		R
+Card #:		243/360
+
+Card Name:	Kwaad Shaper
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Creature - Vong Shaper 
+Pow/Tou:	0/2
+Card Text:	2G, Sacrifice a creature: Reveal the top X cards of your library, where X is the sacrificed creature's power. Put any number of lands revealed this way onto the battlefield tapped. Activate this ability only at any time you could cast a sorcery.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		225/360
+
+Card Name:	Killik Possession
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant creature
+		At the beginning of your upkeep, create a copy of enchanted creature, except it is a 1/1 green Killik Beast.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		223/360
+
+Card Name:	Hunter Lineup
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Bounty
+		Whenever a bounty counter is put onto a creature, choose one that has not been chosen before:
+		• Create a 2/2 red Warrior creature token with haste.
+		• Create a 4/1 green Outlaw creature token with trample.
+		• Create a 1/1 black Smuggler creature token with skulk.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		220/360
+
+Card Name:	Bossk, Guildmaster
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Legendary Creature - Trandoshan Hunter 
+Pow/Tou:	4/4
+Card Text:	Bounty, Trample
+		Whenever a bounty is resolved, put X +1/+1 counters on Bossk, where X is the destroyed creatures power.
+Flavor Text:	"When I get done, there won't be enough of him left to find without an electron microscope."
+Artist:		
+Rarity:		R
+Card #:		204/360
+
+Card Name:	Cilghal, Master Healer
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Legendary Creature - Calamari Jedi 
+Pow/Tou:	1/3
+Card Text:	Whenever another creature dies, you may put a healing counter on Cilghal, Master Healer.
+		2G: Return target creature from your graveyard to your hand whose converted mana cost is less than or equal to the number of healing counter on Cilghal.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		208/360
+
+Card Name:	Corralskipper
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment - Vehicle 
+Pow/Tou:	2/2
+Card Text:	Flying
+		Crew 2
+		Whenever Coralskipper becomes a creature, you may sacrifice a land. If you do, reveal the top three cards of your library and put any number of revealed lands onto the battlefield tapped. Put the rest in the graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		209/360
+
+Card Name:	Grand Moff Tarkin
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Legendary Creature - Human Moff 
+Pow/Tou:	1/1
+Card Text:	At the beginning of each end step, sacrifice Grand Moff Tarkin if an artifact you control went to the graveyard this turn.
+		T: Draw a card. Activate this ability only if you control an artifact.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		66/360
+
+Card Name:	Dark Side Cave
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever a creature you control dies without being in combat that turn, you may cast an instant or sorcery from your graveyard with converted mana cost X or less, where X is that creature's converted mana cost.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		54/360
+
+Card Name:	Mystical Creation
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	Search your library for a Sith instant or sorcery and reveal it. Then put it into your hand. It costs 1 less to cast this turn.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		75/360
+
+Card Name:	Separtist High General
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Creature - Duros Officer 
+Pow/Tou:	2/2
+Card Text:	Whenever casting a creature would cause an ability to trigger, copy that trigger.
+		Droid creatures you control have cycling 1U.
+Flavor Text:	"I am quite convinced that ten thousand more systems will rally to our cause with your support, gentlemen." - Dooku
+Artist:		
+Rarity:		R
+Card #:		87/360
+
+Card Name:	Admiral Ackbar
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Legendary Creature - Calamri Officer 
+Pow/Tou:	
+Card Text:	Whenever you cast a legendary permanent, create two 1/1 white Rebel creature tokens.
+		T: Return another target blocked creature to its owners hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		51/360
+
+Card Name:	Training at Dagobah
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		95/360
+
+Card Name:	Star Destroyer
+Card Color:	Gld
+Mana Cost:	3UUU
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	2/6
+Card Text:	Flying, Haste
+		Crew 6
+		Whenever Star Destroyer attacks, create two token copies of target creature you control with power two or less.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		91/360
+
+Card Name:	Daala's Coup
+Card Color:	B
+Mana Cost:	3BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target creature with power two or less gains indestructible. Then, destroy all creatures.
+Flavor Text:	"I cannot leave the Empire in the hands of fools like you." - Natasi Daala
+Artist:		
+Rarity:		R
+Card #:		107/360
+
+Card Name:	Final Moments
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, commit X treacheries.
+		Final Moments deals X damage to each non-Sith creature, where X is the number of treacheries committed.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		119/360
+
+Card Name:	IG-88, Bounty Droid
+Card Color:	Gld
+Mana Cost:	BBB
+Type & Class:	Legendary Artifact Creature - Droid Outlaw 
+Pow/Tou:	2/2
+Card Text:	Bounty
+		XBB: IG-88, Bounty Droid deals X damage to target creature with a bounty counter on it.
+Flavor Text:	"He's good - one of the best in the galaxy. And he's a surprise. Take cover!" - Leia Organa
+Artist:		
+Rarity:		R
+Card #:		121/360
+
+Card Name:	Imperial Loyalist
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Creature - Rakatan Sith 
+Pow/Tou:	2/1
+Card Text:	Whenever you commit a treachery, you may return an artifact from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		122/360
+
+Card Name:	The Death Star
+Card Color:	Gld
+Mana Cost:	BBB
+Type & Class:	Legendary Artifact Creature - Battlestation 
+Pow/Tou:	20/20
+Card Text:	Indestructible
+		Creatures have "3, T: Fight The Death Star."
+		Damage is dealt to The Death Star in the form of -1/-1 counters.
+		If the Death Star would deal combat damage to a player, you win the game. If the Death Star would die, you lose the game.
+		The Death Star can only attack if your devotion to black is six or more.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		113/360
+
+Card Name:	Lumiya's Lightwhip
+Card Color:	Gld
+Mana Cost:	1BB
+Type & Class:	Legendary Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 1
+		When equipped creature attacks, you may commit a treachery. If you do, target creature an opponent controls blocks equipped creature if able.
+Flavor Text:	"Tell me... how does it work?" - Den Siva
+Artist:		
+Rarity:		R
+Card #:		123/360
+
+Card Name:	Order 66
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		130/360
+
+Card Name:	Mon Mothma
+Card Color:	Gld
+Mana Cost:	WU
+Type & Class:	Legendary Creature - Human Noble 
+Pow/Tou:	2/2
+Card Text:	Whenever another legendary permanent enters the battlefield under your control, tap target creature an opponent controls.
+		Tap three legendary permanents: Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		289/360
+
+Card Name:	Jaina, Sword of the Jedi
+Card Color:	Gld
+Mana Cost:	2RW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	1/1
+Card Text:	Double Strike
+		Attacking creatures you control get +1/+0 until end of turn.
+		Prevent all damage that would be dealt to Jaina, Sword of the Jedi.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		275/360
+
+Card Name:	Ashoka Tano
+Card Color:	Gld
+Mana Cost:	2GW
+Type & Class:	Legendary Creature - Togruta Jedi 
+Pow/Tou:	0/3
+Card Text:	As long as you control another legendary creature, creatures you control get +0/+2 and deal combat damage equal to their toughness.
+Flavor Text:	"There are many contradictions in you. And in him. Be warned, you may never see your future if you remain his student!"
+Artist:		
+Rarity:		R
+Card #:		244/360
+
+Card Name:	Anakin Skywalker, Chosen One
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	2/4
+Card Text:	Indestructible, Protector
+		4BB, Commit a treachery: Transform Anakin Skywalker, the Chosen One.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		1/360
+
+Card Name:	Rakatan Sorceress
+Card Color:	U
+Mana Cost:	4UU
+Type & Class:	Creature - Rakatan Sith 
+Pow/Tou:	4/6
+Card Text:	Whenever you cast an instant or sorcery, create a 1/1 red Rakatan Warrior creature token.
+		R, Sacrifice a red creature: Exile the top card of your library. You may cast it as long as it remains exiled.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		79/360
+
+Card Name:	Call on the Force
+Card Color:	Gld
+Mana Cost:	XGU
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Convoke
+		Reveal the top X cards of your library. Put all Jedi creatures, instants, and sorceries revealed this way into your hand. Then shuffle Call on the Force into your library.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		251/360
+
+Card Name:	General Grievous
+Card Color:	Gld
+Mana Cost:	4UB
+Type & Class:	Legendary Artifact Creature - Droid Officer 
+Pow/Tou:	1/1
+Card Text:	First Strike, Deathtouch
+		Other artifact creatures you control get +X/+X, where X is General Grievous's power.
+		Whenever General Grievous destroys a creature, put a +1/+1 counter on General Grievous.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		271/360
+
+Card Name:	Shedao Shai, Overlord
+Card Color:	Gld
+Mana Cost:	2RG
+Type & Class:	Legendary Creature - Vong Noble 
+Pow/Tou:	0/4
+Card Text:	Protection from artifacts (This creature can't be blocked, targeted, dealt damage, or enchanted by anything artifact.)
+		Whenever Shedao Shai attacks, it gets +1/+0 for each land under your control until end of turn.
+		1RG: Search your library for a land card and put it onto the battlefield tapped.  Then, if you control six or more lands, create a 1/1 red Yuuzhan Vong Warrior creature token with protection from artifacts.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		305/360
+
+Card Name:	Dark Side Duelist
+Card Color:	Gld
+Mana Cost:	1BR
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	1/1
+Card Text:	Menace
+		Whenever you discard a card, each player discards a card.
+		Whenever you sacrifice a creature, each opponent sacrifices a creature.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		257/360
+
+Card Name:	Death Watch Enforcers
+Card Color:	Gld
+Mana Cost:	BG
+Type & Class:	Creature - Human Warrior 
+Pow/Tou:	*/*
+Card Text:	When Death Watch Enforcers enters the battlefield, put a bounty counter on each creature an opponent controls.
+		Death Watch Enforcers' power and toughness are equal to the number of bounty counters on the battlefield.
+		1BG: Death Watch Enforcers fights target creature with a bounty counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		261/360
+
+Card Name:	Jango Fett, Clone Template
+Card Color:	Gld
+Mana Cost:	BRG
+Type & Class:	Legendary Creature - Mandalorian Outlaw 
+Pow/Tou:	2/2
+Card Text:	Bounty, Flying
+		Whenever Jango Fett becomes tapped, create a 1/1 white Rebel creature token.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		276/360
+
+Card Name:	Luke Skywalker, Undaunted Hero
+Card Color:	Gld
+Mana Cost:	GWU
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	0/3
+Card Text:	Whenever you cast a Jedi instant or sorcery, draw a card.
+		Whenever you cast a Jedi creature spell, put a +1/+1 counter on Luke Skywalker, Undaunted Hero.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		284/360
+
+Card Name:	Darth Plagueis, the Wise
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Creature - Muun Sith 
+Pow/Tou:	1/1
+Card Text:	Bestow 3UR
+		You gain control of enchanted creature.
+		Whenever Darth Plagueis, the Wise enchants a creature or becomes a creature, commit a treachery.
+		BB: Return Darth Plagueis to your hand from the graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		259/360
+
+Card Name:	Chewbacca, Freed
+Card Color:	Gld
+Mana Cost:	1RGW
+Type & Class:	Legendary Creature - Wookie Rebel 
+Pow/Tou:	3/5
+Card Text:	Haste, Vigilance
+		R, T: Discard a card, then draw a card.
+		G, T: Put a +1/+1 counter on target creature.
+		W, T: Untap another target creature.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		252/360
+
+Card Name:	Tactical Operation
+Card Color:	Gld
+Mana Cost:	XWUB
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Splice onto Artifact 1W
+		Gain X life, draw X cards, and each opponent discards a card. If you spliced onto artifact, gain 2 life instead.
+Flavor Text:	"Their military abilities are undeniable, but their chances for long-term stability are nonexistent."
+Artist:		
+Rarity:		R
+Card #:		310/360
+
+Card Name:	Merrin, Last Nightsister
+Card Color:	Gld
+Mana Cost:	1GUR
+Type & Class:	Legendary Creature - Dathomiri Sith 
+Pow/Tou:	2/3
+Card Text:	Whenever you cast a noncreature spell, create a 2/2 red Warrior creature token.
+		T: Put the top two cards of your library into your graveyard. You may cast an instant or sorcery card from your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		288/360
+
+Card Name:	Holocron Breaking
+Card Color:	Gld
+Mana Cost:	RWB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	You may sacrifice a Holocron to choose another mode after the first.
+		Choose one or more:
+		• Transform target creature.
+		• Draw two cards, then discard a card.
+		• Return a Saga to your hand from your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		273/360
+
+Card Name:	Backstreet Engineer
+Card Color:	Gld
+Mana Cost:	BGU
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever you splice onto an artifact, put a bounty counter on target creature.
+		Whenever a bounty is resolved, return an artifact from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		245/360
+
+Card Name:	Nom Anor, Galactic Saboteur
+Card Color:	Gld
+Mana Cost:	2BRG
+Type & Class:	Legendary Creature - Vong Spy 
+Pow/Tou:	0/1
+Card Text:	T: Commit a treachery and then search your library for a land and put it onto the battlefield tapped.
+		Whenever you commit a treachery, return target creature to an owner's hand. Nom Anor, Galactic Saboteur becomes a copy of it until end of turn, except it has this ability.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		291/360
+
+Card Name:	Jocosta Nu, Final Guardian
+Card Color:	Gld
+Mana Cost:	WBG
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	3/3
+Card Text:	When Jocosta Nu, Final Guardian enters the battlefield, create two Holocron tokens.
+		Sacrifice two Holocrons: Choose one - 
+		• Draw a card.
+		• Transform target creature.
+		• Prevent all damage dealt to target creature until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		R
+Card #:		279/360
+
+Card Name:	Obi-Wan the Wise
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	2/4
+Card Text:	Vigilance
+		T: Target creature deals damage equal to its toughness until end of turn.
+		When Obi-Wan the Wise would die, transform it instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		30/360
+
+Card Name:	Rebel Transport
+Card Color:	Gld
+Mana Cost:	6WW
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	7/7
+Card Text:	Rebel Transport costs X less to cast, where X is the number of legendary permanents you control.
+		Crew 4, Flying
+		T: Return a creature you control to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		35/360
+
+Card Name:	Qui-Gon Jinn, Jedi Master
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Legendary Planeswalker - Jinn 
+Pow/Tou:	
+Card Text:	Until your next turn, X prevent damage that would be dealt by X creatures you control.
+		Reveal the top card of your library and then draw it. If it was a Jedi instant or sorcery, draw another card.
+		Creatures you control deal damage equal to their toughness.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		34/360
+
+Card Name:	Love of the Living
+Card Color:	G
+Mana Cost:	5GG
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, destroy target artifact. If no artifact could be destroyed this way, search your library for a Beast creature and put it into play.
+Flavor Text:	"You civilization is built on abominations. Your galaxy is polluted."
+Artist:		
+Rarity:		C
+Card #:		227/360
+
+Card Name:	Boba Fett, the Mandalorian
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Legendary Creature - Mandalorian Hunter 
+Pow/Tou:	1/1
+Card Text:	Bounty
+		Boba Fett, the Mandalorian can only be blocked by creatures with a bounty counter on it.
+		Boba Fett gets +X/+X where X is the blocking creature's converted mana cost.
+Flavor Text:	"I see why they call you the best bounty hunter in the galaxy." - Darth Vader
+Artist:		
+Rarity:		C
+Card #:		203/360
+
+Card Name:	Yoda, Final Teacher
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Legendary Planeswalker - Yoda 
+Pow/Tou:	
+Card Text:	At the beginning of an opponent's precombat main phase, they add X mana of any color to their mana pool.
+		Create a 0/2 white Jedi Knight creature token.
+		Target creature gets +0/+2 and deals combat damage equal to its power until end of turn. You may activate another loyalty ability on Yoda, Final Teacher.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		242/360
+
+Card Name:	Sheev Palpatine, Senator
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Legendary Creature - Human Noble 
+Pow/Tou:	1/2
+Card Text:	When Sheev Palpatine, Senator enters the battlefield, create three 1/1 colorless Droid artifact creature tokens.
+		When you control no token droid creatures, transform Sheev Palpatine.
+Flavor Text:	"From this day forward, the truth of you, now and forever more, will be Sidious." - Hego Demask
+Artist:		
+Rarity:		C
+Card #:		88/360
+
+Card Name:	Final Peace
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of each end step, if no player attacked this turn, choose one:
+		• Each player draws a card.
+		• Each player gains 2 life.
+		• Each player returns a creature to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		62/360
+
+Card Name:	Grand Admiral Thrawn
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Legendary Planewalker - Thrawn 
+Pow/Tou:	
+Card Text:	Target opponent draws X cards.
+		Target artifact becomes a 4/4 black creature with flying until end of turn.
+		Artifacts you control become 4/4 black creature with flying.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		65/360
+
+Card Name:	Rule of Two
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, create a 2/2 black Sith creature token.
+		At the beginning of your end step, sacrifice a Sith if you control more than two Sith.
+Flavor Text:	"Two there should be; no more, no less.  One to embody power, the other to crave it."
+Artist:		
+Rarity:		C
+Card #:		133/360
+
+Card Name:	Dark Side Instructor
+Card Color:	B
+Mana Cost:	BBB
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	3/3
+Card Text:	When Dark Side Instructor enters the battlefield, create 2 Holocrons.
+		T: Sacrifice a permanent. Each opponent loses 1 life and you create a Holocron.
+		At the beginning of your end step, if you control five or more Holocrons, transform Dark Side Instructor.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		110/360
+
+Card Name:	Darth Nihilus, the Hungry
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Legendary Planeswalker - Nihilus 
+Pow/Tou:	
+Card Text:	Darth Nihilus, the Hungry deals twice X damage to its controller.
+		Destroy target creature then put X loyalty counters on Darth Nihilus equal to its power.
+		Destroy all opponents' creatures and then gain life equal to each destroyed creature's power.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		111/360
+
+Card Name:	Deep-Seated Love
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	When Deep-Seated Love enters the battlefield, two target creatures cannot be dealt combat damage.
+		When one of the targeted creatures is destroyed, sacrifice all non-land permanents you control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		160/360
+
+Card Name:	Prepare for Battle
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		181/360
+
+Card Name:	Darth Maul
+Card Color:	R
+Mana Cost:	1RR
+Type & Class:	Legendary Planeswalker - Maul 
+Pow/Tou:	
+Card Text:	Sacrifice half of X creatures you control, rounded up.
+		Darth Maul deals 3 damage to any target.
+		Darth Maul becomes a 4/4 Sith creature in addition to its other types. It has double strike and indestructible.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		158/360
+
+Card Name:	Plains
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Plains 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		356/360
+
+Card Name:	Plains
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Plains 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		357/360
+
+Card Name:	Island
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Island 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		350/360
+
+Card Name:	Island
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Island 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		351/360
+
+Card Name:	Forest
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Forest 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		348/360
+
+Card Name:	Forest
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Forest 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		349/360
+
+Card Name:	Mountain
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Mountain 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		353/360
+
+Card Name:	Mountain
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Mountain 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		354/360
+
+Card Name:	Swamp
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Swamp 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		360/360
+
+Card Name:	Swamp
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Basic Land - Swamp 
+Pow/Tou:	
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		359/360
+
+Card Name:	Nal Hutta, Glorious Jewel
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Legendary Land - Swamp Forest 
+Pow/Tou:	
+Card Text:	Nal Hutta, Glorious Jewel enters the battlefield tapped unless a creature has a bounty counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		355/360
+
+Card Name:	Drommund Kaas, Sith Capital
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Legendary Land - Swamp Mountain 
+Pow/Tou:	
+Card Text:	Drommund Kaas enters the battlefield tapped unless you committed a treachery this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		347/360
+
+Card Name:	Kashyyk, Verdant Forest
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Mountain Forest 
+Pow/Tou:	
+Card Text:	Kashyyk, Verdant Forest enters the battlefield tapped unless you control a creature with power three or later.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		280/360
+
+Card Name:	Geonosis, Droid Factory
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Island Swamp 
+Pow/Tou:	
+Card Text:	Geonosis, Droid Factory enters the battlefield tapped unless you control an artifact creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		272/360
+
+Card Name:	Ossus, Academy's Home
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Forest Island 
+Pow/Tou:	
+Card Text:	Ossus, Academy's Home enters the battlefield tapped unless there is a Jedi instant or sorcery in your graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		294/360
+
+Card Name:	Dathomir, Witches' Haven
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Island Mountain 
+Pow/Tou:	
+Card Text:	Dathomir, Witches' Haven enters the battlefield tapped unless you cast an instant or sorcery this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		260/360
+
+Card Name:	Coruscant, Heart of the Galaxy
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Plains Swamp 
+Pow/Tou:	
+Card Text:	Coruscant, Heart of the Galaxy enters the battlefield tapped unless you control a Saga.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		256/360
+
+Card Name:	Yavin IV Temple
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Forest Plains 
+Pow/Tou:	
+Card Text:	Yavin IV Temple enters the battlefield tapped unless you gained life this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		318/360
+
+Card Name:	Ord Mantell, Republic Outpost
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Mountain Plains 
+Pow/Tou:	
+Card Text:	Ord Mantell enters the battlefield tapped unless you attacked with a Rebel creature this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		293/360
+
+Card Name:	Bespin, Floating City
+Card Color:	Gld
+Mana Cost:	
+Type & Class:	Legendary Land - Plains Island 
+Pow/Tou:	
+Card Text:	Bespin, Floating City enters the battlefield tapped unless you control another legendary permanent.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		248/360
+
+Card Name:	Prowling Nexu
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Creature - Nexu Beast 
+Pow/Tou:	1/3
+Card Text:	Bounty, Reach
+		When Nexu Hunter enters the battlefield, if you control an untapped land, put a +1/+1 counter on it.
+Flavor Text:	"For creatures with four eyes and a mouthful of teeth, they are rather cute." -Allana Solo
+Artist:		
+Rarity:		C
+Card #:		233/360
+
+Card Name:	Jedi Knight
+Card Color:	W
+Mana Cost:	
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	0/2
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		1/4
+
+Card Name:	Yuuzhan Vong
+Card Color:	R
+Mana Cost:	
+Type & Class:	Creature - Vong 
+Pow/Tou:	1/1
+Card Text:	Protection from artifacts (This creature can't be blocked, targeted, dealt damage, or enchanted by anything artifact.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		2/4
+
+Card Name:	Holocron
+Card Color:	Art
+Mana Cost:	
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Sacrifice Holocron: Add one mana of any color to your mana pool.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		4/4
+
+Card Name:	Beast
+Card Color:	G
+Mana Cost:	
+Type & Class:	Creature - Beast 
+Pow/Tou:	3/3
+Card Text:	
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		3/4
+
+Card Name:	Stormtrooper Armor
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 1
+		Equipped creature gets +1/+1.
+		Whenever you sacrifice equipped creature, you may attach Stormtrooper Armor to another creature you control.
+Flavor Text:	Great aim.
+Artist:		
+Rarity:		C
+Card #:		346/360
+
+Card Name:	Galactic Historian
+Card Color:	Gld
+Mana Cost:	2WB
+Type & Class:	Creature - Human Scientist 
+Pow/Tou:	2/4
+Card Text:	T: Add or remove a lore counter from target saga.
+		Sacrifice Galactic Historian: Return target saga you control to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		270/360
+
+Card Name:	Peace Negotiations
+Card Color:	Gld
+Mana Cost:	2WU
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		296/360
+
+Card Name:	Front-Line Rebel
+Card Color:	Gld
+Mana Cost:	1RW
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	2/1
+Card Text:	When Front-Line Rebel attacks, if it is untapped, target Rebel you control gets +2/+0 until end of turn.
+		T: Deal 1 damage to target player.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		269/360
+
+Card Name:	Regal Warrior
+Card Color:	Gld
+Mana Cost:	GW
+Type & Class:	Creature - Togruta Jedi 
+Pow/Tou:	0/2
+Card Text:	As long as Regal Warrior's power is less than one, it has double strike.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		299/360
+
+Card Name:	Bloodthirsty Wampa
+Card Color:	Gld
+Mana Cost:	4RG
+Type & Class:	Creature - Wampa Beast 
+Pow/Tou:	*/3
+Card Text:	Bloodthirty Wampa's power is equal to the number of lands you control.
+		1R/G, T: Bloodthirsty Wampa fights another creature, then search your library for a basic land and put it onto the battlefield tapped. Then shuffle your library.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		249/360
+
+Card Name:	Bounty's Reward
+Card Color:	Gld
+Mana Cost:	BG
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Bounty
+		Whenever a bounty is resolved, reveal the top two cards of your library. Exile one and and put the other into your graveyard.
+		You may cast cards exiled by Bounty's Reward
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		250/360
+
+Card Name:	Force Backwards
+Card Color:	Gld
+Mana Cost:	1GU
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Gain 2 life, draw a card, and then return target nonland permanent to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		266/360
+
+Card Name:	Sith Ghostcaller
+Card Color:	Gld
+Mana Cost:	2UR
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	1/1
+Card Text:	Whenever you cast a Sith spell, put a +1/+1 counter on Sith Ghostcaller.
+		When Sith Ghostcaller dies, create X 1/1 red Sith creature tokens, where X is Sith Ghostaller's power.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		306/360
+
+Card Name:	Painful Interrogation
+Card Color:	Gld
+Mana Cost:	1UB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto artifact 1U/B
+		Target player discards a card from their hand at random. If it was a land, create a Holocron.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		295/360
+
+Card Name:	Rakatan Empire
+Card Color:	Gld
+Mana Cost:	1BR
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Madness 2BR (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		Whenever you commit a treachery, you may create a 1/1 red Rakatan creature token with menace.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		297/360
+
+Card Name:	Revan the Butcher
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	3/2
+Card Text:	Whenever you sacrifice a creature, you may pay 2. If you do, each opponent sacrifices a creature.
+		Whenever you pay life, you may pay 2. If you do, each opponent loses 2 life.
+		Whenever another creature you controls transforms, you may transform Revan the Butcher.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		132/360
+
+Card Name:	Malgus, Front Line Tactican
+Card Color:	Gld
+Mana Cost:	1U/BU/B
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	2/2
+Card Text:	Madness 1U/B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		Whenever Malgus, Front Line Tactician would be sacrificed, you may transform it instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		331/360
+
+Card Name:	Shaak Ti, Clone General
+Card Color:	Gld
+Mana Cost:	2G/W
+Type & Class:	Legendary Creature - Togruta Jedi 
+Pow/Tou:	1/2
+Card Text:	Vigilance
+		T: Add W or G.
+		T: Target creature deals combat damage equal to its toughness until end of turn.
+		At the beginning of your upkeep, if you control a creature with toughness 4 or more, transform Shaak Ti, Clone General.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		333/360
+
+Card Name:	Nashtah, Padawan
+Card Color:	Gld
+Mana Cost:	1B/RB/R
+Type & Class:	Legendary Creature - Palliduvan Jedi 
+Pow/Tou:	3/3
+Card Text:	At the beginning of your end step, if two creatures you control died this turn, transform Nashtah, Padawan.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		332/360
+
+Card Name:	A'Sharad Hett, Raider
+Card Color:	Gld
+Mana Cost:	3R/GR/G
+Type & Class:	Legendary Creature - Human Jedi Warrior 
+Pow/Tou:	0/6
+Card Text:	Landfall - Whenever a land enters the battlefield under your control, A'Sharad Hett, Raider fights another target creature.
+		At the beginning of your end step, if you control seven or more lands, transform A'Sharad Hett.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		321/360
+
+Card Name:	Loss of Connection
+Card Color:	W
+Mana Cost:	WW
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Sacrifice all enchantments and equipment attached or equipped to target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		26/360
+
+Card Name:	Twins of Knowledge
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Pureblood Sith 
+Pow/Tou:	3/2
+Card Text:	When Twins of Knowledge enters the battlefield, create two Holocrons.
+		R, Sacrifice a Holocron: Destroy target non-creature artifact.
+		Whenever you sacrifice a permanent, each opponent loses 1 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		195/360
+
+Card Name:	Backdoor Dealings
+Card Color:	B
+Mana Cost:	1BB
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Flash
+		Enchant creature
+		Whenever enchanted creature becomes tapped, that player commits a treachery.
+		Whenever enchanted creature attacks, sacrifice it.
+Flavor Text:	All is well until the Hand discovers treachery.
+Artist:		
+Rarity:		C
+Card #:		98/360
+
+Card Name:	Meditative Hermit
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Kel'Dor Jedi 
+Pow/Tou:	0/2
+Card Text:	When Meditative Hermit enters the battlefield, create a Holocron.
+		At the beginning of combat on your turn, you may sacrifice a Holocron. If you do, tap Meditative Hermit and put a +1/+1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		28/360
+
+Card Name:	Call on the Force
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		207/360
+
+Card Name:	Lessons of the Jedi
+Card Color:	U
+Mana Cost:	1UUU
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	When Lessons of the Jedi enters the battlefield, create two Holocrons.
+		Sacrifice two Holocrons: Return target creature to its owner's hand.
+		Sacrifice three Holocrons: Create a 0/2 white Jedi creature token.
+		1U: Create a Holocron.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		71/360
+
+Card Name:	Durga the Hutt
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Legendary Creature - Hutt Noble 
+Pow/Tou:	2/5
+Card Text:	Whenever another creature dies, create a Holocron.
+		Sacrifice three Holocrons: Destroy target creature with a bounty counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		117/360
+
+Card Name:	Filibuster
+Card Color:	U
+Mana Cost:	1UU
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	You may cast this spell from your graveyard if you sacrifice two treasures in addition to paying its mana cost.
+		Counter target spell.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		61/360
+
+Card Name:	Reflect
+Card Color:	R
+Mana Cost:	4R
+Type & Class:	Sith Instant
+Pow/Tou:	
+Card Text:	Reflect becomes a copy of a spell on the stack, except it also has "Deal X damage to any target, where X is the copied spell's converted mana cost."
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		185/360
+
+Card Name:	Gang War
+Card Color:	G
+Mana Cost:	GG
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Put a bounty counter on target creature you control and target creature you don't control. Then the two target creatures fight.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		219/360
+
+Card Name:	Dark Brotherhood Devotee
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	1/1
+Card Text:	Madness B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		If you cast this card from exile, discard a card, then draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		108/360
+
+Card Name:	Piercing Blade
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Madness 2R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		Piercing Blade deals 2 damage to target creature. If Piercing Blade's madness cost was paid, each player puts the top three cards of their library into their graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		179/360
+
+Card Name:	Twisted Inquisitor
+Card Color:	U
+Mana Cost:	5U
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	3/4
+Card Text:	Madness 3U (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+		At the beginning of your upkeep, you may discard a card. If you do, tap target creature. It does not untap at the beginning of its next untap step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		96/360
+
+Card Name:	Gungun Alliance
+Card Color:	W
+Mana Cost:	5W
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Convoke
+		When Gungun Alliance enters the battlefield, exile target creature until Gungun Alliance leaves the battlefield.
+		Creatures you control get +1/+1.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		15/360
+
+Card Name:	Blossoming Wildland
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	You may play an extra land each turn.
+		3: Each player puts the top card of their library into their graveyard. You may play lands from your graveyard until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		202/360
+
+Card Name:	Essence Transfer
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		118/360
+
+Card Name:	Nighthawk Scout
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Dathomiri Sith 
+Pow/Tou:	3/2
+Card Text:	Madness 2R
+		Menace, Reach
+		Whenever Nighthawk Scout would die, transform it instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		177/360
+
+Card Name:	Gather the Order
+Card Color:	W
+Mana Cost:	5WW
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Convoke
+		Whenever a creature becomes tapped without attacking, put an order counter on Gather the Order.
+		Remove four order counters: Draw a card and gain 2 life.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		14/360
+
+Card Name:	Domain's Champion
+Card Color:	G
+Mana Cost:	3GG
+Type & Class:	Creature - Vong Warrior 
+Pow/Tou:	2/2
+Card Text:	When Domain's Champion enters the battlefield, create X 1/1 red Yuuzhan Vong creature tokens with protection from artifacts, where X is the number of lands you control.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		211/360
+
+Card Name:	Suicide Mission
+Card Color:	U
+Mana Cost:	3U
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Splice onto artifact 1U
+		Sacrifice an artifact you control, then deal damage equal to the sacrificed creature's power to all creature. If you spliced onto an artifact, put a +1/+1 counter on an artifact creature, instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		93/360
+
+Card Name:	Last Ditch Escape
+Card Color:	W
+Mana Cost:	W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Exile target creature you control. You may cast it from exile. If that creature was an artifact or legendary creature, create a Holocron.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		22/360
+
+Card Name:	Pod Racer
+Card Color:	Gld
+Mana Cost:	1R
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	6/4
+Card Text:	Haste
+		Crew 3
+		Whenever Pod Racer dies, sacrifice all creatures that crewed Pod Racer this turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		180/360
+
+Card Name:	Exploration Droid
+Card Color:	Gld
+Mana Cost:	3GG
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	1/1
+Card Text:	When Exploration Droid enters the battlefield, search your library for a land and put it onto the battlefield tapped. Then shuffle your library.
+		Landfall - Whenever a land enters the battlefield under your control, you may pay 1. If you do, create a copy of Exploration Droid.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		215/360
+
+Card Name:	Staging Grounds
+Card Color:	U
+Mana Cost:	1U
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever an artifact enters the battlefield under your control, put a charge counter on Staging Grounds.
+		Remove five charge counter from Staging Grounds: Create a 4/4 black artifact Ship creature token with flying.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		90/360
+
+Card Name:	Warm Meal
+Card Color:	B
+Mana Cost:	B
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	You may only cast this spell if a bounty resolved this turn.
+		Create 3 Food tokens.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		145/360
+
+Card Name:	Loyal Guardsman
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - ??? Outlaw 
+Pow/Tou:	5/5
+Card Text:	Bounty
+		At the beginning of your upkeep, target creature with a bounty counter on it cannot attack or block until your next turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		228/360
+
+Card Name:	Black Market Dealings
+Card Color:	B
+Mana Cost:	BB
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Choose one or both:
+		• Sacrifice any number of artifacts and then create that many Holocrons.
+		• Sacrifice any number of Holocrons and return that many artifacts from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		102/360
+
+Card Name:	Betrayal
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, commit a treachery.
+		Change the target of target spell or activated ability.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		151/360
+
+Card Name:	Sever in Half
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may commit a treachery.
+		Target creature gets -3/-3 until end of turn. If a creature died this turn, target creature gets -6/-6 instead.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		135/360
+
+Card Name:	Forward Push
+Card Color:	R
+Mana Cost:	4R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +2/+0 until end of turn and gains first strike.
+		Creatures target opponent controls must block this turn if able.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		170/360
+
+Card Name:	Force-Imbued Jump
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Jedi Instant
+Pow/Tou:	
+Card Text:	Target creature you control gains flying until end of turn.
+		Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.) 
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		63/360
+
+Card Name:	Renowned Cheiftan
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Creature - Wookiee Noble Rebel 
+Pow/Tou:	2/2
+Card Text:	Other Rebel creatures you control get +0/+1.
+		T: Create a 1/1 white Rebel creature token.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		39/360
+
+Card Name:	Black Sun Slavers
+Card Color:	G
+Mana Cost:	2GG
+Type & Class:	Creature - Trandoshan Outlaw 
+Pow/Tou:	0/1
+Card Text:	Bounty
+		At the beginning of combat on your turn, Black Sun Slavers gets +X/+X until end of turn, where X is target creature's toughness who has a bounty counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		200/360
+
+Card Name:	Freedom
+Card Color:	W
+Mana Cost:	1W
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Untap target creature. It gains hexproof until end of turn. Remove all counters on that creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		10/360
+
+Card Name:	Black Market Surgery
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant creature
+		Enchanted creature gets a bounty counter and a +1/+1 counter.
+		Whenever you splice onto an artifact, double the number of +1/+1 counters on enchanted creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		103/360
+
+Card Name:	Forsee
+Card Color:	U
+Mana Cost:	U
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Reveal the top cards of each player's library. Then, choose one:
+		• Draw the top card of your library.
+		• Each player puts the top card of their library into their graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		64/360
+
+Card Name:	Regal Warmaster
+Card Color:	R
+Mana Cost:	3R
+Type & Class:	Creature - Wookie Rebel 
+Pow/Tou:	4/3
+Card Text:	Vigilance
+		Whenever Regal Warmaster becomes tapped, it gains first strike until end of turn.
+		2R, T: Discard a card, then draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		186/360
+
+Card Name:	Roaring Defender
+Card Color:	Gld
+Mana Cost:	GGWW
+Type & Class:	Creature - Wookiee Jedi 
+Pow/Tou:	2/5
+Card Text:	Convoke, Protector
+		Tap four creatures: Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		300/360
+
+Card Name:	Warrior for the Freed
+Card Color:	Gld
+Mana Cost:	RRWW
+Type & Class:	Creature - Wookiee Warrior Rebel 
+Pow/Tou:	
+Card Text:	Whenever Warrior for the Freed becomes untapped, scry 1.
+		R, T: Deal 1 damage to target creature.
+		W, Q: Gain 1 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		317/360
+
+Card Name:	Vote of No Confidence
+Card Color:	Gld
+Mana Cost:	WWUU
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Target player returns a creature they control to its owner's hand. If the creature isn't legendary, you may put a legendary creature in your hand onto the battlefield.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		315/360
+
+Card Name:	Starkiller
+Card Color:	Gld
+Mana Cost:	WWBB
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	1/1
+Card Text:	As long as Starkiller is attacking, it gets +5/+0 until end of turn.
+		As long as Starkiller is blocking, it gets +0/+5 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		309/360
+
+Card Name:	Duplicitous Saboteur
+Card Color:	Gld
+Mana Cost:	UUBB
+Type & Class:	Creature - Human Spy 
+Pow/Tou:	2/2
+Card Text:	Whenever you splice onto an artifact, Duplicitous Saboteur is unblockable until end of turn.
+		Whenever Duplicitous Saboteur deals combat damage to a player, you may return an artifact to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		262/360
+
+Card Name:	Saber Throw
+Card Color:	Gld
+Mana Cost:	UURR
+Type & Class:	Sith Sorcery
+Pow/Tou:	
+Card Text:	As an additional cost to cast this spell, you may sacrifice an artifact.
+		Saber Throw deals 5 damage to target creature or player.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		301/360
+
+Card Name:	Force Push
+Card Color:	Gld
+Mana Cost:	GGUU
+Type & Class:	Jedi Sorcery
+Pow/Tou:	
+Card Text:	Return all creatures other than target Jedi you control to their owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		268/360
+
+Card Name:	Trade Secrets
+Card Color:	Gld
+Mana Cost:	BBGG
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	At the beginning of your upkeep, reveal the top card of your library. If it is a non-creature spell, put a bounty counter on target creature.
+		Whenever a bounty is resolved, return a creature from your graveyard to your hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		312/360
+
+Card Name:	Force Choke
+Card Color:	Gld
+Mana Cost:	BBRR
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Enchant creature
+		Enchanted creature cannot attack or block.
+		At the beginning of enchanted creature's controller's upkeep, that player loses 2 life.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		267/360
+
+Card Name:	Beast from the Trash Compactor
+Card Color:	Gld
+Mana Cost:	RRGG
+Type & Class:	Creature - Beast 
+Pow/Tou:	1/1
+Card Text:	1R: Destroy target artifact.
+		2G: Put a +1/+1 counter on target creature.
+		X, Remove X +1/+1 counters from Beast from the Trash Compactor: Deal that much damage to target creature.
+Flavor Text:	
+Artist:		Dmitry Burmak
+Rarity:		U
+Card #:		247/360
+
+Card Name:	Bastion of Hope
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Bothan Jedi 
+Pow/Tou:	0/4
+Card Text:	Defender
+		Whenever you tap a creature for the first time each turn, you may tap another target creature.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		3/360
+
+Card Name:	Sith's Saber
+Card Color:	Gld
+Mana Cost:	U
+Type & Class:	Artifact - Equipment 
+Pow/Tou:	
+Card Text:	Equip 3
+		Equipped creature gets +2/+0 and gains first strike.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		89/360
+
+Card Name:	Rushblade Sith
+Card Color:	B
+Mana Cost:	1B
+Type & Class:	Creature - Pureblood Sith 
+Pow/Tou:	1/1
+Card Text:	Flash
+		When Rushblade Sith dies, create a 2/2 black Sith creature token.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		134/360
+
+Card Name:	Spice Rage
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +3/+3 and gains haste until end of turn.
+		Sacrifice that creature at the beginning of your end step.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		192/360
+
+Card Name:	Engorge
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Target creature gets +2/+2 until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		213/360
+
+Card Name:	Temple Training
+Card Color:	W
+Mana Cost:	1WW
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		43/360
+
+Card Name:	Suffer a Betrayal
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Sith Instant
+Pow/Tou:	
+Card Text:	Two target attacking creatures deal damage to each other instead of you or permanents you control.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		92/360
+
+Card Name:	Temple of Hate
+Card Color:	Gld
+Mana Cost:	B
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Temple of Hate costs 1 more to cast for each creature you control.
+		4, T: Target creature gains deathtouch until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		139/360
+
+Card Name:	Consumed by Rage
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant creature
+		At the beginning of your upkeep, put a rage counter on enchanted creature.
+		Enchanted creature gets +1/-1 for each rage counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		155/360
+
+Card Name:	Test of War
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever a creature you blocks another creature without dying, it gets +1/+1.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		239/360
+
+Card Name:	Holoprojector
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact
+Pow/Tou:	
+Card Text:	Whenever you cast a spell, exile it. You may cast the most recent spell that was exiled by Holoprojector, except it costs 2 more to cast.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		342/360
+
+Card Name:	Rebellion Y-Wing
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	5/5
+Card Text:	Flying, Crew 3
+		Rebellion Y-Wing cannot be blocked by creatures with less power than it.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		344/360
+
+Card Name:	Sith Temple
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	T: Add C.
+		T: Add U, R, or B. Activate this ability only to cast or activate a Sith spell.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		358/360
+
+Card Name:	Jedi Temple
+Card Color:	Lnd
+Mana Cost:	
+Type & Class:	Land
+Pow/Tou:	
+Card Text:	T: Add C.
+		T: Add U, G, or W. Activate this ability only to cast or activate a Jedi spell.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		352/360
+
+Card Name:	Meditation Sphere
+Card Color:	Gld
+Mana Cost:	GUR
+Type & Class:	Artifact - Vehicle 
+Pow/Tou:	2/2
+Card Text:	Whenever you cast a Jedi or Sith instant or sorcery, Meditation Sphere becomes a creature until end of turn.
+		Flying
+		Whenever Meditation Sphere becomes a creature, scry 1, then draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		286/360
+
+Card Name:	Kreia's Understanding
+Card Color:	Gld
+Mana Cost:	1RWB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		281/360
+
+Card Name:	Talzin, Shaman
+Card Color:	Gld
+Mana Cost:	2BGU
+Type & Class:	Legendary Creature - Dathomiri Sith 
+Pow/Tou:	2/3
+Card Text:	When Talzin, Shaman enters the battlefield, search your library for a creature and put it into the graveyard.
+		T: Commit a treachery.
+		At the beginning of your end step, if there are five or more creatures in your  graveyard, transform Talzin.             
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		311/360
+
+Card Name:	Vergere the Questioning
+Card Color:	Gld
+Mana Cost:	URW
+Type & Class:	Legendary Creature - Fosh Advisor 
+Pow/Tou:	3/3
+Card Text:	Cumulative Upkeep: Deal 1 damage to target creature you control.
+		Whenever a creature you control that could transform would die to Vergere's cumulative upkeep, transform it instead.
+Flavor Text:	"Is it what the teacher teaches or what the student learns?"
+Artist:		
+Rarity:		U
+Card #:		313/360
+
+Card Name:	Chosen One's Destiny
+Card Color:	Gld
+Mana Cost:	3WBG
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		254/360
+
+Card Name:	Meeting Riina
+Card Color:	Gld
+Mana Cost:	1RGW
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	You may choose up to five. You may choose the same abilities more than once.
+		• Each player gains 2 life.
+		• Each player sacrifices a permanent.
+		• Each player creates a 3/3 green Beast creature token.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		287/360
+
+Card Name:	Secret Intelligence
+Card Color:	Gld
+Mana Cost:	1WUB
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever you splice onto an artifact, you may activate an ability of Secret Intelligence.
+		W: Gain three life.
+		U: Draw a card.
+		B: Create a Holocron.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		302/360
+
+Card Name:	Ch'Gang Hool's World Brain
+Card Color:	Gld
+Mana Cost:	BRG
+Type & Class:	Creature - Dhuryam 
+Pow/Tou:	8/8
+Card Text:	When World Brain enters the battlefield, bounty, then bounty again.
+		Whenever a bounty is resolved, search your library for a land and put it onto the battlefield tapped.
+		World Brain cannot attack or block unless you control seven or more lands.    
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		253/360
+
+Card Name:	Stalwart Defender
+Card Color:	Gld
+Mana Cost:	4GWU
+Type & Class:	Creature - Rodian Jedi 
+Pow/Tou:	0/2
+Card Text:	Convoke, Protector
+		T: Target creature deals damage equal to its toughness until end of turn.
+		Whenever you gain life, put a +1/+1 counter on Stalwart Defender.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		308/360
+
+Card Name:	Fervent Rager
+Card Color:	Gld
+Mana Cost:	2UBR
+Type & Class:	Creature - Twi'lek Sith 
+Pow/Tou:	3/3
+Card Text:	Madness UBR
+		R, T, Discard a card: Draw two cards.
+		1B, T: Return target creature that was sacrificed this turn to its owner's hand.
+		2U, T: Tap target creature.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		264/360
+
+Card Name:	Bountiful Lands
+Card Color:	G
+Mana Cost:	G
+Type & Class:	Instant
+Pow/Tou:	
+Card Text:	Bounty
+		Creatures in your hand gain flash until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		205/360
+
+Card Name:	Mouse Droid
+Card Color:	Gld
+Mana Cost:	B
+Type & Class:	Artifact Creature - Droid 
+Pow/Tou:	1/1
+Card Text:	Haste, Skulk
+		When Mouse Droid deals damage to a player, return it to it's owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		126/360
+
+Card Name:	Fierce Cultist
+Card Color:	R
+Mana Cost:	1R
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	1/1
+Card Text:	Whenever you discard a creature card, you may have Fierce Cultist become a copy of it until end of turn, except it still has this ability.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		165/360
+
+Card Name:	Fall Into Imperial Hands
+Card Color:	U
+Mana Cost:	UU
+Type & Class:	Enchantment
+Pow/Tou:	
+Card Text:	Whenever you sacrifice a creature, put cards equal to the sacrificed creature's converted mana cost from the top of target player's library into the graveyard.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		60/360
+
+Card Name:	Dooku, Renowned Swordsman
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Legendary Creature - Human Jedi Noble 
+Pow/Tou:	0/3
+Card Text:	First Strike, Vigilance
+		Creatures with power less than Count Dooku have first strike.
+		T: Target creature deals damage equal to its toughness until end of turn.
+		Whenever you commit a treachery, you may transform Count Dooku.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		8/360
+
+Card Name:	Asajj Ventress, Assassin
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Legendary Creature - Dathomiri Sith 
+Pow/Tou:	1/1
+Card Text:	Vigilance
+		When Asajj Ventress is tapped, Asajj Ventress gets +1/+0 and gains first strike until end of turn.
+		R, T: Asajj Ventress deals 1 damage to each player.
+		If Ventress would die, you may transform it instead.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		148/360
+
+Card Name:	The Solo Children
+Card Color:	G
+Mana Cost:	4GG
+Type & Class:	Legendary Creature - Human Jedi 
+Pow/Tou:	0/2
+Card Text:	When The Solo Children enter the battlefield, create two 0/2 white Jedi Knight creature tokens.
+		Whenever a Jedi creature token you control dies, transform The Solo Children.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		237/360
+
+Card Name:	Jade, Emperor's Hand
+Card Color:	U
+Mana Cost:	2UU
+Type & Class:	Legendary Creature - Human Sith 
+Pow/Tou:	2/3
+Card Text:	Bounty
+		Whenever a bounty would resolve on a legendary creature, transform Jade, Emperor's Hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		68/360
+
+Card Name:	C-3P0, Human-Cyborg Relations
+Card Color:	Gld
+Mana Cost:	W/UW/U
+Type & Class:	Legendary Artifact Creature - Droid 
+Pow/Tou:	3/3
+Card Text:	1W/U: Return C-3P0, Human-Cyborg Relations to its owner's hand. Create a Holocron.
+		Whenever you splice onto an artifact, you may transform C—3P0, Human-Cyborg Relations.
+Flavor Text:	
+Artist:		
+Rarity:		C
+Card #:		322/360
+
+Card Name:	Final Confrontation
+Card Color:	Gld
+Mana Cost:	WB
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		265/360
+
+Card Name:	The Jedi Council
+Card Color:	Gld
+Mana Cost:	1WU
+Type & Class:	Legendary Enchantment
+Pow/Tou:	
+Card Text:	Flash
+		When The Jedi Council enters the battlefield, draw a card and gain 2 life.
+		Whenever you cast another legendary spell, return The Jedi Council to its owner's hand.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		277/360
+
+Card Name:	Battle for Hoth
+Card Color:	Gld
+Mana Cost:	2RW
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		246/360
+
+Card Name:	Luminara, Republic General
+Card Color:	Gld
+Mana Cost:	GW
+Type & Class:	Legendary Creature - Mirialan Jedi 
+Pow/Tou:	1/3
+Card Text:	Whenever a creature you control becomes tapped for any reason other than attacking, scry 1.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		285/360
+
+Card Name:	Fast-Firing Greedo
+Card Color:	Gld
+Mana Cost:	1BG
+Type & Class:	Legendary Creature - Rodian Outlaw 
+Pow/Tou:	2/2
+Card Text:	First Strike
+		Whenever Fast-Firing Greedo attacks, put a bounty counter on target creature.
+		Whenever you resolve a bounty, put a +1/+1 counter on Greedo.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		263/360
+
+Card Name:	War for the Capital
+Card Color:	Gld
+Mana Cost:	5RG
+Type & Class:	Sorcery
+Pow/Tou:	
+Card Text:	Untap all lands you control. They gain "T: Target creature you control fights another target creature." until end of turn.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		316/360
+
+Card Name:	A Jedi's Aid
+Card Color:	Gld
+Mana Cost:	1GU
+Type & Class:	Enchantment - Saga 
+Pow/Tou:	
+Card Text:	(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		278/360
+
+Card Name:	Naga Sadow, Savant
+Card Color:	Gld
+Mana Cost:	3UR
+Type & Class:	Legendary Creature - Pureblood Sith 
+Pow/Tou:	2/3
+Card Text:	Madness 1UR
+		Whenever you draw a card, you may  discard a card. Until end of turn, you may cast an instant or sorcery from your graveyard until end of turn. Then exile it.
+		T: Draw a card.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		290/360
+
+Card Name:	Limb Upgrade
+Card Color:	Gld
+Mana Cost:	UB
+Type & Class:	Enchantment - Aura 
+Pow/Tou:	
+Card Text:	Enchant creature
+		At the beginning of each end step, if enchanted creature was dealt damage this turn, put a +1/+1 counter on it.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		282/360
+
+Card Name:	Lone Master
+Card Color:	Gld
+Mana Cost:	2BR
+Type & Class:	Creature - ??? Sith 
+Pow/Tou:	7/7
+Card Text:	Lone Master gets -X/-X, where X is the number of other creatures you control.
+		Whenever Lone Master becomes tapped, commit a treachery.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		283/360
+
+Card Name:	Disciple of Light
+Card Color:	W
+Mana Cost:	XWWW
+Type & Class:	Creature - Human Jedi 
+Pow/Tou:	0/4
+Card Text:	As Disciple of Light enters the battlefield, creatures you control get +X/+X until end of turn.
+		T: Gain 2 life. Activate this ability only if your devotion to white is six or greater.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		7/360
+
+Card Name:	Disciple of Passion
+Card Color:	R
+Mana Cost:	XRRR
+Type & Class:	Creature - Human Rebel 
+Pow/Tou:	3/2
+Card Text:	When Disciple of Hate enters the battlefield, deal X damage to any target.
+		T: Target creature becomes unblockable until end of turn. Activate this ability only if your devotion to red is six or greater.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		161/360
+
+Card Name:	Disciple of Wealth
+Card Color:	B
+Mana Cost:	XBBB
+Type & Class:	Creature - Hutt Noble 
+Pow/Tou:	2/3
+Card Text:	When Disciple of Wealth enters the battlefield, distribute X bounty counters among any number of creatures.
+		T: Creatures you control gain menace until end of turn. Activate this ability only if your devotion to black is six or greater.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		114/360
+
+Card Name:	Disciples of Life
+Card Color:	G
+Mana Cost:	XGGG
+Type & Class:	Creature - Vong Warrior 
+Pow/Tou:	4/4
+Card Text:	As Disciples of Life enters the battlefield, destroy X target artifacts.
+		T: Search your library for a basic land and put it onto the battlefield tapped. Then shuffle your library. Activate this ability only if your devotion to green is six or greater.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		210/360
+
+Card Name:	Disciple of Knowledge
+Card Color:	U
+Mana Cost:	XUUU
+Type & Class:	Creature - Human Sith 
+Pow/Tou:	2/2
+Card Text:	As Disciple of Knowledge enters the battlefield, create X Holocrons.
+		T: Return an instant or sorcery from your graveyard to your hand. Activate this ability only if your devotion to blue is six or greater.
+Flavor Text:	
+Artist:		
+Rarity:		U
+Card #:		58/360
+
